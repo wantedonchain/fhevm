@@ -106,4 +106,4 @@ task('lz:oft:send', 'Sends OFT tokens cross‐chain from EVM chains')
             KnownOutputs.EXPLORER_LINK,
             `LayerZero Scan link for tracking all cross-chain transaction details: ${result.scanLink}`
         )
-    })
+    })]
